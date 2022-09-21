@@ -1,11 +1,11 @@
 {
     "name": "hirasso/lib-posts-to-posts",
-	"description": "A library for many-to-many relationships in WordPress",
+    "description": "A library for many-to-many relationships in WordPress",
     "homepage": "https://github.com/hirasso/wp-lib-posts-to-posts",
     "license": "GPL-2.0+",
     "minimum-stability": "dev",
     "require": {
-        "scribu/scb-framework": "dev-master"
+        "hirasso/scb-framework": "dev-master"
     },
     "autoload": {
         "files": ["autoload.php"]
