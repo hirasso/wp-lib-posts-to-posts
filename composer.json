@@ -9,5 +9,11 @@
     },
     "autoload": {
         "files": ["autoload.php"]
-    }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/hirasso/wp-scb-framework"
+        }
+    ]
 }
