@@ -1,7 +1,7 @@
 {
-    "name": "scribu/lib-posts-to-posts",
+    "name": "hirasso/lib-posts-to-posts",
 	"description": "A library for many-to-many relationships in WordPress",
-    "homepage": "https://github.com/scribu/wp-lib-posts-to-posts",
+    "homepage": "https://github.com/hirasso/wp-lib-posts-to-posts",
     "license": "GPL-2.0+",
     "minimum-stability": "dev",
     "require": {
