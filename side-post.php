@@ -1,5 +1,5 @@
 <?php
-
+#[AllowDynamicProperties]
 class P2P_Side_Post extends P2P_Side {
 
 	protected $item_type = 'P2P_Item_Post';

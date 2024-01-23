@@ -1,5 +1,5 @@
 <?php
-
+#[AllowDynamicProperties]
 class P2P_Connection_Type {
 
 	public $side;

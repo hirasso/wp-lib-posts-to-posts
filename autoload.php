@@ -1,5 +1,5 @@
 <?php
-
+#[AllowDynamicProperties]
 class P2P_Autoload {
 
 	protected function __construct( $prefix, $basedir ) {
